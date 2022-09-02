@@ -1,0 +1,22 @@
+.form {
+    display: grid;
+    max-width: 100%;
+}
+
+.label {
+    padding: 8px;
+}
+
+.button {
+    background-color: purple;
+    border-radius: 25px;
+    padding: 8px;
+    margin: 8px 0;
+    font-size: 28px;
+}
+
+.inputDate {
+    font-size: 28px;
+    border-radius: 25px;
+    padding: 8px 12px;
+}
